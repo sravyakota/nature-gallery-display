@@ -1,0 +1,16 @@
+/* Write your code here. */
+.imgg {
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+}
+.imgItem {
+  margin: 10px;
+}
+.img {
+  opacity: 0.6;
+}
+.b {
+  border-width: 0px;
+  background-color: transparent;
+}
