@@ -10,7 +10,7 @@ const ThumbnailItem = props => {
     toChangeImage(id)
   }
 
-  const isActiveImg = isActive ? '' : 'im'
+  const isActiveImg = isActive ? '' : 'img'
 
   return (
     <li className={`imgItem ${isActiveImg}`}>

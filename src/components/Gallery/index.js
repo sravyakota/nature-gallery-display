@@ -98,7 +98,7 @@ class Gallery extends Component {
           <img
             src={filteredImage[0].imageUrl}
             alt={filteredImage[0].imageAltText}
-            className="img"
+            className="immg"
           />
 
           <h1 className="heading">Nature Photography</h1>
